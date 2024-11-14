@@ -1,0 +1,5 @@
+ email : Tharika@gmail.com  	password:   Tharika
+ email : Jasika@gmail.com  	password:   Jasika
+ email : Anu@gmail.com  	password:   Anu
+ email : Pooja@gmail.com  	password:   Pooja
+ email : Varnika@gmail.com  	password:   Varnika
